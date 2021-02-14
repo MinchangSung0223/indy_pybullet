@@ -26,3 +26,4 @@ gedit Panda/panda.urdf
   </joint>
 ```
 # indy_pybullet
+python test.py
